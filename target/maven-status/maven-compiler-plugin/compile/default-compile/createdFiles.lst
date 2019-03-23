@@ -1,0 +1,16 @@
+com/in28minutes/springboot/jpa/hibernate/h2/example/Controller/UserController.class
+com/in28minutes/springboot/jpa/hibernate/h2/example/Entity/UserEntity.class
+com/in28minutes/springboot/jpa/hibernate/h2/example/Service/ArticleService.class
+com/in28minutes/springboot/jpa/hibernate/h2/example/Service/UserService.class
+com/in28minutes/springboot/jpa/hibernate/h2/example/DTO/ArticleResponce.class
+com/in28minutes/springboot/jpa/hibernate/h2/example/Entity/Article.class
+com/in28minutes/springboot/jpa/hibernate/h2/example/Service/serviceImpl/UserServiceImpl.class
+com/in28minutes/springboot/jpa/hibernate/h2/example/DTO/UserRequest.class
+com/in28minutes/springboot/jpa/hibernate/h2/example/DTO/UserResponse.class
+com/in28minutes/springboot/jpa/hibernate/h2/example/Repository/UserRepository.class
+com/in28minutes/springboot/jpa/hibernate/h2/example/DTO/ArticleRequest.class
+com/in28minutes/springboot/jpa/hibernate/h2/example/Entity/Color.class
+com/in28minutes/springboot/jpa/hibernate/h2/example/Service/serviceImpl/ArticleServiceImpl.class
+com/in28minutes/springboot/jpa/hibernate/h2/example/Repository/ArticleRepository.class
+com/in28minutes/springboot/jpa/hibernate/h2/example/Controller/ArticleController.class
+com/in28minutes/springboot/jpa/hibernate/h2/example/SpringBoot2JPAWithHibernateAndH2Application.class

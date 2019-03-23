@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.in28minutes.springboot.jpa.hibernate.h2.example.Controller.UserControllerTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.686 s - in com.in28minutes.springboot.jpa.hibernate.h2.example.Controller.UserControllerTest
